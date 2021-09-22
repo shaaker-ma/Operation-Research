@@ -1,0 +1,10 @@
+https://pysal.org/spaghetti/notebooks/transportation-problem.html
+
+https://scipbook.readthedocs.io/en/latest/intro.html
+
+https://stackoverflow.com/questions/31657837/transportation-algorithm-in-python
+
+https://www.geeksforgeeks.org/transportation-problem-set-1-introduction/
+
+https://towardsdatascience.com/operations-research-in-r-transportation-problem-1df59961b2ad
+
